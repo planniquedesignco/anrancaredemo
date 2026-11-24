@@ -1,0 +1,1 @@
+V10: fixed business section contrast, sticky matching dark header, icon social links, removed duplicate footer strip, redesigned mobile intro, full-width mobile CTA, reduced section spacing. All asset filenames unchanged.
